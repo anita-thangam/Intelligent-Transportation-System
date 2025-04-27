@@ -1,1 +1,3 @@
 # Intelligent-Transportation-System
+
+This study presents a CNN-based framework for traffic object detection, classification, and volume estimation using a large dataset. The model performs well in object detection and classification, achieving high mean average precision (MAP). It also estimates traffic volume with reliable accuracy, as shown by metrics like RMSE and MAPE. Data visualization and analysis provide insights into feature correlations, validating the model's effectiveness for real-world traffic monitoring. This framework offers a scalable solution for intelligent transportation systems, contributing to smart city advancements.
